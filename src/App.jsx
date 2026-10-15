@@ -12,7 +12,7 @@ const reels = [
     id: 1,
     username: "sachin.patel",
     avatar: "https://i.pravatar.cc/150?img=12",
-    video: "/videos/test.mp4",
+    video: "/videos/love.mp4",
     caption:
       "Beautiful evening ✨ #travel #nature #reels",
     likes: 1248,
@@ -23,7 +23,7 @@ const reels = [
     id: 2,
     username: "travel.vibes",
     avatar: "https://i.pravatar.cc/150?img=32",
-    video: "/videos/test2.mp4",
+    video: "/videos/withbro.mp4",
     caption:
       "Somewhere between the mountains and the sky 🏔️",
     likes: 8432,
@@ -34,7 +34,7 @@ const reels = [
     id: 3,
     username: "daily.visuals",
     avatar: "https://i.pravatar.cc/150?img=45",
-    video: "/videos/test.mp4",
+    video: "/videos/lasttimecall.mp4",
     caption:
       "Just enjoy the moment 🌊",
     likes: 21984,
